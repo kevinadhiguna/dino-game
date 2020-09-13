@@ -4,5 +4,7 @@ A clone of Dino game in Google Chrome that usually appears when not connecting t
 
 ## Instruction
 Avoid obstacles and reach highscore as possible as you can!<br>
--> Press `w` or `Arrow Up` key to jump<br>
--> Press `s` or `Arrow Down` key to get down<br>
+-> Press `𝐖` key or ⬆️ to jump<br>
+-> Press `𝐒` key or ⬇️ to get down<br>
+<br>
+Your highest score will be saved eventhough you refresh the page unless you close your browser. 
