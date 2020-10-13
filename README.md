@@ -2,6 +2,12 @@
 
 A clone of Dino game in Google Chrome that usually appears when not connecting to the Internet.
 
+## Demo
+This is how this app looks :
+<img src="https://raw.githubusercontent.com/kevinadhiguna/chrome-dino-game-replica/master/demo/1.png" width="90%"></img>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/chrome-dino-game-replica/master/demo/2.png" width="90%"></img>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/chrome-dino-game-replica/master/demo/3.png" width="90%"></img>
+
 ## Instruction
 Avoid obstacles and reach highscore as possible as you can!<br>
 -> Press `𝐖` key or ⬆️ to jump<br>
