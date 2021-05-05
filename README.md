@@ -14,3 +14,5 @@ Avoid obstacles and reach highscore as possible as you can!<br>
 -> Press `𝐒` key or ⬇️ to get down<br>
 <br>
 Your highest score will be saved eventhough you refresh the page unless you close your browser. 
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/dino-game)](https://github.com/kevinadhiguna)
