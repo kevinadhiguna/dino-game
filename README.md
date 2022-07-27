@@ -15,4 +15,8 @@ Avoid obstacles and reach highscore as possible as you can!<br>
 <br>
 Your highest score will be saved eventhough you refresh the page unless you close your browser. 
 
+## Reference
+
+- [Chrome Dino Replica Game in JavaScript | HTML5 Canvas Tutorial by Tyler Potts](https://youtu.be/LprJOTU37hk)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/dino-game)](https://github.com/kevinadhiguna)
